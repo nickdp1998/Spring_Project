@@ -1,2 +1,2 @@
 # Spring_Project
-Projet Spring
+API pour accéder à une base de données Postgres.
